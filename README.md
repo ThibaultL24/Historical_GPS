@@ -8,6 +8,22 @@ A revolutionary application combining historical exploration and critical analys
 - 🎯 **Immersive Exploration**: Interactive visualization of historical journeys
 - 💭 **Debate Platform**: Collaborative space for historical analysis
 
+### 🎯 Project Challenges & Significance
+
+#### Core Challenges
+- **Historical Integrity**: Ensuring validated data through Intuition Protocol
+- **Educational Engagement**: Making history accessible and immersive
+- **Critical Thinking**: Encouraging analysis of multiple perspectives
+- **Cultural Promotion**: Supporting tourism and local heritage
+- **Technical Scalability**: Future-proofing through MCP integration
+
+#### Impact Areas
+- 📚 Education enhancement
+- 🏛️ Cultural preservation
+- 🌍 Tourism development
+- 🤔 Critical thinking development
+- 🔄 Historical data validation
+
 ## 🚀 Vision 1: Immersive Exploration
 
 ### Key Features
